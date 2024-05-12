@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goyalh4164&label=Profile%20views&color=0e75b6&style=flat" alt="goyalh4164" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshgo70126373" target="blank"><img src="https://img.shields.io/twitter/follow/harshgo70126373?logo=twitter&style=for-the-badge" alt="harshgo70126373" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **MERN Stack,React Native,Flutter,DSA**
